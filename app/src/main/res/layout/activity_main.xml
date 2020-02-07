@@ -93,7 +93,7 @@ the hot spot for traveller who is traveling right there with their families"
         android:lineSpacingExtra="4dp"
         android:text="Simply dummy text something is nice but you have
 to aware about the branding of the product itself so keep it happy and make it more fancy."
-        android:textColor="#FFF"
+        android:textColor="#FFFF"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
